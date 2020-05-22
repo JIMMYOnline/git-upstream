@@ -1,4 +1,4 @@
-# Quick excercise - Remote repos and Upstream branch
+# Quick excercise - Remote repos and Upstream branch Testing Rocky
 
 ## Used commands
 
